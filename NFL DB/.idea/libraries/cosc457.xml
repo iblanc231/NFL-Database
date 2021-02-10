@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cosc457">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/cosc457_jar/cosc457.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cosc4572">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cosc457/src/com/cosc457/miglayout15-swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cosc457/src/com/cosc457/mysql-connector-java-5.1.40-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

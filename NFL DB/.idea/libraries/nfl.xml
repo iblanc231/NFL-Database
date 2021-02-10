@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nfl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/nfl_jar/nfl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
